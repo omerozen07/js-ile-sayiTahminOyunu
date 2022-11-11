@@ -1,0 +1,19 @@
+#sayiTahmin {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input,
+button {
+    padding: 20px;
+    text-align: center;
+}
+
+#tahminEt {
+    background-color: green;
+}
+
+#yeniOyun {
+    background-color: rgb(64, 64, 189);
+}
